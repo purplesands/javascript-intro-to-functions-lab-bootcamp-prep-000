@@ -28,10 +28,10 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   
   if (string = uppercase) {
-    return "I can't hear you!"
+    return "I can't hear you!";
   } else if (string = lowercase) {
-    return "YES INDEED!"
+    return "YES INDEED!";
   } else if (string = mixedCase) {
-    return "I love you, too"
+    return "I love you, too";
   }
 }
